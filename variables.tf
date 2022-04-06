@@ -9,3 +9,7 @@ variable "rsrc_rg" {
 variable "rsrc_location" {
   type = string
 }
+
+variable "rsrc_skugeneral" {
+  type = string
+}
